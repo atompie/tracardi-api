@@ -41,3 +41,4 @@ git+https://github.com/Tracardi/tracardi-local-timespan.git
 git+https://github.com/Tracardi/tracardi-event-counter.git
 git+https://github.com/Tracardi/tracardi-language-detection.git
 git+https://github.com/Tracardi/tracardi-regex-validator.git
+starlette>=0.40.0 # not directly required, pinned by Snyk to avoid a vulnerability
